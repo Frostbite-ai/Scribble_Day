@@ -200,14 +200,14 @@ button:hover {
         width: 8rem;
         height: 8rem;
         left: 6vw;
-        top: 5vw;
+        top: 7vw;
     }
 
     .background:nth-child(2) {
         width: 13rem;
         height: 13rem;
         left: -5vw;
-        top: 80vh;
+        top: 75vh;
 
     }
 
