@@ -207,7 +207,8 @@ button:hover {
         right: -35vw;
     }
 }
-@media screen and (max-width:410px) {
+
+@media screen and (max-width:420px) {
 
     .logo {
         font-size: 1.4rem;
@@ -224,16 +225,16 @@ button:hover {
     }
 
     .background:nth-child(1) {
-        width: 8rem;
-        height: 8rem;
-        left: 6vw;
-        top: 9vw;
+        width: 9rem;
+        height: 9rem;
+        left: 8vw;
+        top: 23vw;
     }
 
     .background:nth-child(2) {
-        width: 13rem;
-        height: 13rem;
-        left: -5vw;
+        width: 16rem;
+        height: 16rem;
+        left: -8vw;
         top: 75vh;
 
     }
@@ -241,7 +242,7 @@ button:hover {
     .background:nth-child(3) {
         width: 20rem;
         height: 20rem;
-        top: 20vw;
+        top: 45vw;
         right: -60vw;
     }
 }
